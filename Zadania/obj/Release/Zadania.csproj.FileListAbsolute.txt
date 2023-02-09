@@ -1,0 +1,8 @@
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Release\Zadania.exe.config
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Release\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Release\Zadania.pdb
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Release\Zadania.csproj.AssemblyReference.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Release\Zadania.csproj.SuggestedBindingRedirects.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Release\Zadania.csproj.CoreCompileInputs.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Release\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Release\Zadania.pdb

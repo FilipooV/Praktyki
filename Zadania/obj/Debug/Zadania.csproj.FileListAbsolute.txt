@@ -1,0 +1,16 @@
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\bin\Debug\Zadania.exe.config
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\bin\Debug\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\bin\Debug\Zadania.pdb
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\obj\Debug\Zadania.csproj.AssemblyReference.cache
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\obj\Debug\Zadania.csproj.SuggestedBindingRedirects.cache
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\obj\Debug\Zadania.csproj.CoreCompileInputs.cache
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\obj\Debug\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Projekt semestralny - McDonald\Zadania\Zadania\obj\Debug\Zadania.pdb
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Debug\Zadania.exe.config
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Debug\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\bin\Debug\Zadania.pdb
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Debug\Zadania.csproj.AssemblyReference.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Debug\Zadania.csproj.SuggestedBindingRedirects.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Debug\Zadania.csproj.CoreCompileInputs.cache
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Debug\Zadania.exe
+F:\Filipa\Programowanie\C#\Szkola\Zadania\Zadania\obj\Debug\Zadania.pdb
